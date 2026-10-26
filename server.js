@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
 app.get("/about", (req, res) => {
   res.json({
-    name: "Shiva",
+    name: "Eekshith",
     section: "Your Section",
   });
 });
